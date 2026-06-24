@@ -126,17 +126,9 @@ Ask Me About:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=https://github.com/Rebikrrt399&show_icons=true&theme=tokyonight&hide_border=true)[https://github.com/Rebikrrt399](https://github-readme-stats.vercel.app/api?username=https://github.com/Rebikrrt399&show_icons=true&theme=tokyonight&hide_border=true)[&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=https://github.com/Rebikrrt399&show_icons=true&theme=tokyonight&hide_border=true)"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB]&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB]&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rebikrrt399&layout=compact&theme=tokyonight&hide_border=true)[https://github.com/Rebikrrt399](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rebikrrt399&layout=compact&theme=tokyonight&hide_border=true)[&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rebikrrt399&layout=compact&theme=tokyonight&hide_border=true)"/>
 
 </div>
 
@@ -144,7 +136,15 @@ Ask Me About:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB]&theme=tokyonight&margin-w=10&no-frame=true&row=1&column=6"/>
+<img src="[https://streak-stats.demolab.com?user=](https://streak-stats.demolab.com?user=https://github.com/Rebikrrt399&theme=tokyonight&hide_border=true)[https://github.com/Rebikrrt399](https://streak-stats.demolab.com?user=https://github.com/Rebikrrt399&theme=tokyonight&hide_border=true)[&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=https://github.com/Rebikrrt399&theme=tokyonight&hide_border=true)"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="[https://github-profile-trophy.vercel.app/?username=](https://github-profile-trophy.vercel.app/?username=https://github.com/Rebikrrt399&theme=tokyonight&margin-w=10&no-frame=true&row=1&column=6)[https://github.com/Rebikrrt399](https://github-profile-trophy.vercel.app/?username=https://github.com/Rebikrrt399&theme=tokyonight&margin-w=10&no-frame=true&row=1&column=6)[&theme=tokyonight&margin-w=10&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=https://github.com/Rebikrrt399&theme=tokyonight&margin-w=10&no-frame=true&row=1&column=6)"/>
 
 </div>
 
@@ -171,16 +171,11 @@ Ask Me About:
 
 <div align="center">
 
-<a href="[YOUR_LINKEDIN]">
+<a href="[www.linkedin.com/in/bikram-bera-8502a2303](http://www.linkedin.com/in/bikram-bera-8502a2303)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="[YOUR_WEBSITE]">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:[bikrambera628@gmail.com](mailto:bikrambera628@gmail.com)"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
